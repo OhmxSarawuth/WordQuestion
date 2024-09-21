@@ -7,7 +7,7 @@ function TestWords() {
 
   useEffect(() => {
     // Step 1: ทำการ fetch ไฟล์
-    fetch('/words/words_eng.json')
+    fetch('/WordQuestion/words/words_eng.json')
       .then((response) => {
         // Step 2: ตรวจสอบว่าการตอบกลับสำเร็จหรือไม่
         if (!response.ok) {
