@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Dist or build directory
+dist/
+build/
+
+# Test results
+coverage/
+
+# Editor temporary files
+*.swp
+.DS_Store
+
+# IDE-specific files
+.idea
+.vscode/
+
+# Log files
+*.log
+
+# Local environment variables
+.env.local
+node_modules
