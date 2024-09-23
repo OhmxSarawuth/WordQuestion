@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/WordQuestion/static/css/main.f855e6bc.css",
-    "main.js": "/WordQuestion/static/js/main.fd6470b9.js",
+    "main.css": "/WordQuestion/static/css/main.27f9b12f.css",
+    "main.js": "/WordQuestion/static/js/main.2e605a33.js",
     "static/js/453.ed3810f9.chunk.js": "/WordQuestion/static/js/453.ed3810f9.chunk.js",
     "index.html": "/WordQuestion/index.html",
-    "main.f855e6bc.css.map": "/WordQuestion/static/css/main.f855e6bc.css.map",
-    "main.fd6470b9.js.map": "/WordQuestion/static/js/main.fd6470b9.js.map",
+    "main.27f9b12f.css.map": "/WordQuestion/static/css/main.27f9b12f.css.map",
+    "main.2e605a33.js.map": "/WordQuestion/static/js/main.2e605a33.js.map",
     "453.ed3810f9.chunk.js.map": "/WordQuestion/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.fd6470b9.js"
+    "static/css/main.27f9b12f.css",
+    "static/js/main.2e605a33.js"
   ]
 }
