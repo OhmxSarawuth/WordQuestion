@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+nav {
+  display: flex;  /* ใช้ flexbox สำหรับเรียงในแนวนอน */
+  justify-content: space-around;  /* กระจาย item */
+  align-items: center;  /* จัด item ให้อยู่ตรงกลางในแนวตั้ง */
+}
+
+.wrap-navbar {
+  margin: 0 10px;  /* เพิ่มระยะห่างระหว่างแต่ละ item */
+}
